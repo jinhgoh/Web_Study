@@ -1,7 +1,6 @@
 # CSS
 
-### Reference
-<a href="https://www.youtube.com/watch?v=-OWx2vM4tLI&list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B&index=1"> 생활코딩 </a>
+### Reference : <a href="https://www.youtube.com/watch?v=-OWx2vM4tLI&list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B&index=1"> 생활코딩 </a>
 <br><br>
 
 ### Lecture3_Intro
